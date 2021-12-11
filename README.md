@@ -12,14 +12,14 @@ It is built using HTML, CSS and Javascript.
 
 ## FAQ
 
-#### Is the website Responsive?
+####:red_circle: Is the website Responsive?
 
 The college project didnot required responsiveness. So, this website is not responsive 
-#### Who designed the website?
+#### :red_circle:Who designed the website?
 
 
 
 The design of the website is inspired from Healthline.com
 
-#### Does the website involves Framework/Libraries ?
+#### :red_circle:Does the website involves Framework/Libraries ?
 No any framework were used.This is build using Vanilla CSS and Vanilla Javascript. 
