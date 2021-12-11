@@ -12,7 +12,7 @@ It is built using HTML, CSS and Javascript.
 
 ## FAQ
 
-####:red_circle: Is the website Responsive?
+#### ::red_circle Is the website Responsive?
 
 The college project didnot required responsiveness. So, this website is not responsive 
 #### :red_circle:Who designed the website?
