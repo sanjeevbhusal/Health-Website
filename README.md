@@ -1,7 +1,7 @@
 
 # :fire: Health Website
 
-https://iot-11-d3l96gk7i-bhusalsanjeev23-gmailcom.vercel.app/
+https://health-website.vercel.app/
 
 This website is the Final Project of my First Semester class on Web Development.
 It contains 5 articles on different health topics.
