@@ -14,12 +14,12 @@ It is built using HTML, CSS and Javascript.
 
 #### :red_circle:Is the website Responsive?
 
-The college project didnot required responsiveness. So, this website is not responsive 
+:fast_forward:The college project didnot required responsiveness. So, this website is not responsive 
 #### :red_circle:Who designed the website?
 
 
 
-The design of the website is inspired from Healthline.com
+:fast_forward:The design of the website is inspired from Healthline.com
 
 #### :red_circle:Does the website involves Framework/Libraries ?
-No any framework were used.This is build using Vanilla CSS and Vanilla Javascript. 
+:fast_forward:No any framework were used.This is build using Vanilla CSS and Vanilla Javascript. 
